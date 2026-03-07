@@ -1,9 +1,1 @@
-<html>
-<img
-            class="site"
-            height="600"
-            width="600"
-            src="![gig 2](https://github.com/user-attachments/assets/69e2164c-8fb3-420b-8f94-2dfc36156b0d)"
-          />
-
-  <html>
+![git gif](https://github.com/user-attachments/assets/8e110b15-2194-4e40-8619-c73c340d02a8)
