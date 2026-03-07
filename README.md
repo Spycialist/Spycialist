@@ -6,6 +6,7 @@ I am currently pursuing a bachelor's degree in Artificial Intelligence 🤖 at t
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@https_achills)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Https_achills)
 
+## 💻 Tech skills
 <div style="display: inline_block"><br>
  <img align="center" alt="Aquiles-Java" height="45" width="45" 
    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
