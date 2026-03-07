@@ -5,8 +5,8 @@ I am currently pursuing a bachelor's degree in Artificial Intelligence 🤖 at t
 ##
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Aquiles-Java" height="30" width="40" 
+ <img align="center" alt="Aquiles-Java" height="50" width="50" 
    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
-  <img align="center" alt="Aquiles-Python" height="30" width="40" 
+  <img align="center" alt="Aquiles-Python" height="50" width="50" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
 <div>
