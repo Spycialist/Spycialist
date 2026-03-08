@@ -3,7 +3,7 @@
 I am currently pursuing a bachelor's degree in Artificial Intelligence 🤖 at the University of Marília (UNIMAR) 🎓. I have a good knowledge of Python 🐍 and am learning Java ☕. My GitHub 💻 is currently focused on Java exercises and small projects 🚀 using the technologies already mentioned.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@https_achills)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https_achills)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Https_achills)
 
 ## 💻 Tech skills
